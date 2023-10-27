@@ -1,0 +1,17 @@
+body {
+    background: goldenrod;
+}
+
+li {
+    font-size: 40px;
+}
+
+a {
+    font-weight: bold;
+    color: white;
+}
+
+.my-buttton {
+    border: solid 4px black;
+    background: rgb(165, 225, 225);
+}
